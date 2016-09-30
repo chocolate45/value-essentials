@@ -1,4 +1,4 @@
-dbsqlite3
 __pycache__
 *.pyc
 user_story.py
+db.sqlite3
