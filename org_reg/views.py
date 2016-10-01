@@ -4,4 +4,4 @@ from django.urls import reverse
 
 # Create your views here.
 def home_page(request):
-    return render(request, 'home.html')
+    return render(request, 'org_reg/home.html')
